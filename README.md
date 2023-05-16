@@ -1,6 +1,6 @@
-# Project Title
+# Project Title and it is hosted on NETLIFY
 
-A brief description on word frquency analyzer [View This Project](https://github.com/rameendrasingh/word-frequency-analyze.git).
+A brief description on word frquency analyzer [View This Project Hosted on Netlify](https://ramendra-word-frequency-analyze.netlify.app/).
 
 This project is a Word Frequency Analyzer that fetches text data, processes it, and provides word frequency analysis along with a bar chart representation.
 
